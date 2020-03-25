@@ -1,0 +1,37 @@
+body{
+   font: bold 18px Arial;
+}
+header{
+    background-color: Black;
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    font: bold 20px Arial;
+}
+#btn{
+    font-family: arial;
+    color: white;
+    background-color: #33CCCC;
+    border: none;
+    padding: 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+}
+#btn:hover{
+    background-color: White;
+    color: #33CCCC;
+    border: 20px #33CCCC;
+    
+}
+td{
+    text-align: center;
+    padding: 20px;
+}
+#encabezado{
+    background-color: Black;
+    color: white;
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+    color: Black;
+}
